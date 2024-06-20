@@ -43,6 +43,7 @@ User can view the 3D environment and can move around the domain (similar to a fi
     - cmake ..
     - make
     - ./2D_RAY_TRACER
+<img src="./README_figures/Pred_wgan_2.png" width=170>    
 ![Screenshot_from_2022-01-13_09-50-39](/uploads/bb2e8ae2c8b891c187c7b15883de4b75/Screenshot_from_2022-01-13_09-50-39.png)
 
 ## Sprint 3
